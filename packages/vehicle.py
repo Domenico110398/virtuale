@@ -3,6 +3,7 @@ class Vehicle:
         self.plate = plate
         self.type = type
         self.fuel = fuel
+        print("game!")
 
     def show_info(self):
         """method to show info"""
